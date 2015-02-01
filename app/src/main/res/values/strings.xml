@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickReturn</string>
+    <string name="hello_world">Hello world!\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd
+        \n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd\n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd
+        \n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd\n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd
+        \n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd\n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd
+        \n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd\n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd
+        \n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd\n\nH\ne\nl\nl\no\n\nw\no\nr\nl\nd</string>
+    <string name="action_settings">Settings</string>
+</resources>

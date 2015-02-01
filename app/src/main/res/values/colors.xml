@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF123456</color>
+    <color name="primary_dark">#FF123456</color>
+    <color name="accent">#FF123456</color>
+    <color name="control_normal">#FF123456</color>
+    <color name="control_activated">#FF123456</color>
+    <color name="control_highlight">#FF123456</color>
+    <color name="switch_thumb_normal">#FF123456</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
